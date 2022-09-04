@@ -52,7 +52,7 @@
   "query-input": "要查询的名字",
   "search-btn": "查询",
   "no-data": "现在还没有数据",
-  "no-message": "这个人不屑于跟你交谈",
+  "no-message": "这只牛不屑于跟你交谈",
   "self-record": "{name} 的最高记录. 已上传 {attempts} 次<br/>SCORE:{score} {time}",
   "no-self-record": "没有找到 {name} 的记录(或被过滤)",
   "no-name-tip": "提示：你玩之前还没有填名字"
